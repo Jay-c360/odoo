@@ -28,6 +28,7 @@ The app is totaly hypothetical and only useful for learning
     'data': [
         'security/ir.model.access.csv',
         'views/openacademy.xml',
+        'views/course.xml'
         
     ],
     # only loaded in demonstration mode
