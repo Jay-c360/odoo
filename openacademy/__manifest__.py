@@ -22,14 +22,15 @@ The app is totaly hypothetical and only useful for learning
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base', 'board'],
+    'depends': ['base'],
 
     # always loaded
     'data': [
         'security/ir.model.access.csv',
         'views/openacademy.xml',
         'views/course.xml',
-        'views/session.xml'
+        'views/session.xml',
+        'views/partner.xml',
         
     ],
     # only loaded in demonstration mode
