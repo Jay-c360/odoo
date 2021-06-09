@@ -32,6 +32,6 @@ The app is totaly hypothetical and only useful for learning
     ],
     # only loaded in demonstration mode
     'demo': [
-        'demo.xml',
+        '/demo/demo.xml',
     ],
 }
